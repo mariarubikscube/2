@@ -1,0 +1,1 @@
+start iexplore C:\Users\Maria Mariggi\Desktop\Rubik's Cube\Hintergrund\RubiksSolve\Solution.html
